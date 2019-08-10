@@ -146,9 +146,9 @@
 
 	.midasi2{
 		margin:10px;
-		width:100%;
+		width:98%;
 		height:40px;
-		background: aliceblue;
+		background: bisque;
 		font-size:25px;
 	}
 
@@ -162,8 +162,8 @@
 
 	.maillink{
 		position: fixed;
-		bottom:-10;
-		right:-10;
+		bottom:0;
+		right:0;
 	}
 	.maillink a{
 
