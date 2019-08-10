@@ -148,7 +148,7 @@
 		margin:10px;
 		width:98%;
 		height:40px;
-		background: bisque;
+		background: linen;
 		font-size:25px;
 	}
 
@@ -162,8 +162,8 @@
 
 	.maillink{
 		position: fixed;
-		bottom:0;
-		right:0;
+		bottom:-1;
+		right:-1;
 	}
 	.maillink a{
 
