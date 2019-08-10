@@ -103,7 +103,12 @@
 /*コピペここまで*/
 
 #bbtop{
-	font-size:24px;
+	font-size:30px;
+}
+
+.top{
+	margin-top:30px;
+	font-size:20px;
 }
 
 .topMessage{
@@ -123,5 +128,10 @@
 .maillink a{
 	display: block;
 	text-decoration: none;
+}
+
+.mailimg{
+	width:50px;
+	height: auto;
 }
 }
