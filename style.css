@@ -127,8 +127,8 @@
 
 	.maillink{
 		position: fixed;
-		bottom:20px;
-		right:20px;
+		bottom:0px;
+		right:0px;
 	}
 	.maillink a{
 		display: block;
@@ -137,7 +137,7 @@
 
 	.mailimg{
 		width:70%;
-		height: auto;
+		height: 70%;
 	}
 
 	.new{
