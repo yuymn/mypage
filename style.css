@@ -134,6 +134,10 @@
 		height:40px;
 	}
 
+	.new{
+		color:pink;
+	}
+
 	.maillink{
 		position: fixed;
 		bottom:0%;
