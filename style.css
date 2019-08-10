@@ -121,8 +121,17 @@
 		color:red;
 	}
 
-	.aboutConcert{
-		text-align: center;
+	.topcontent{
+		border: 1px solid grey;
+		border-raduis:10px;
+		background-color:aliceblue;
+		width:100%;
+		height:400px;
+	}
+
+	.midasi2{
+		width:100%;
+		height:40px;
 	}
 
 	.maillink{
@@ -136,12 +145,10 @@
 	}
 
 	.mailimg{
-		width:70%;
-		height: 70%;
+		width:50%;
+		height: 50%;
 	}
 
-	.new{
-		border:1px solid gray;
-	}
+
 
 }
