@@ -1,3 +1,7 @@
+*{
+	font-family:メイリオ;
+}
+
 /*メニューコピペ*/
 @media screen and (max-width: 999px) {
 .header {
