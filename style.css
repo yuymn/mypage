@@ -163,7 +163,7 @@
 	.maillink{
 		position: fixed;
 		bottom:-10px;
-		right:-10px;
+		left:0px;
 	}
 	.maillink a{
 
