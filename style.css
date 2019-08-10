@@ -123,13 +123,17 @@
 
 	.topcontent{
 		border: 1px solid grey;
-		border-raduis:10px;
-		background-color:aliceblue;
+		border-radius:10px;
 		width:100%;
-		height:400px;
+		height:100px;
+	}
+
+	.midasi{
+		background: aliceblue;
 	}
 
 	.midasi2{
+		padding:10px;
 		width:100%;
 		height:40px;
 	}
