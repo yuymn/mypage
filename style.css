@@ -162,8 +162,8 @@
 
 	.maillink{
 		position: fixed;
-		bottom:-1px;
-		right:-1px;
+		bottom:-10px;
+		right:-10px;
 	}
 	.maillink a{
 
