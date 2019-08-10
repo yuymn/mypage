@@ -125,18 +125,29 @@
 		border: 1px solid grey;
 		border-radius:10px;
 		width:100%;
-		height:100px;
 	}
 
+	#aboutConcert{
+		height: 150px;
+	}
+
+	#info{
+		height:250px;
+	}
+
+
 	.midasi{
-		padding:20px;
+
 	}
 
 	.midasi2{
-		padding:10px;
 		width:100%;
 		height:40px;
 		background: aliceblue;
+	}
+
+	.content{
+		padding:10px;
 	}
 
 	.new{
@@ -145,8 +156,8 @@
 
 	.maillink{
 		position: fixed;
-		bottom:0;
-		right:0;
+		bottom:-10;
+		right:-10;
 	}
 	.maillink a{
 
