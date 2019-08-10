@@ -106,11 +106,6 @@
 	font-size:24px;
 }
 
-.twitter{
-	width: 100%;
-	height:400px;
-}
-
 .topMessage{
 	text-align: center;
 	color:red;
@@ -121,8 +116,6 @@
 }
 
 .maillink{
-	width:100px;
-	height: 100px;
 	position: fixed;
 	bottom:16px;
 	right:16px;
