@@ -1,2 +1,2 @@
 # mypage
-HTMLとCSS練習のためのテスト
+bloom brassの仮置き場だった
